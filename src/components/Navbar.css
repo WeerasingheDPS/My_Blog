@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.mainnav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    width:70%;
+    margin: 0 auto;
+   
+
+}
+
+.links a{
+    padding:20px;
+    text-decoration: none;
+}
+
+.links a:hover{
+    color:red;
+}
+
+img{
+    width:100%;
+}
+
+.links{
+    margin-top: 20px;
+}

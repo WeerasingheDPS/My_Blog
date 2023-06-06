@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "My First Blog",
-      "body": "ygffeuhgyergeuhgeuherhgergeheu",
-      "author": "Mario",
-      "id": 1
-    },
-    {
       "title": "Opening Party",
       "body": "ygffgeeeherhgergeheu",
       "author": "Yoshi",
@@ -17,18 +11,6 @@
       "body": "this ishelghel",
       "author": "mario",
       "id": 3
-    },
-    {
-      "title": "sdvsdvdv",
-      "body": "gtgtgtegteg",
-      "author": "yoshi",
-      "id": 4
-    },
-    {
-      "title": "hhhrth",
-      "body": "4y4hytwh",
-      "author": "yoshi",
-      "id": 5
     }
   ]
 }
